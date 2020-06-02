@@ -1,0 +1,12 @@
+@media(max-width:768px){
+    .reg-title{
+        /* display: none; */
+        font-size: 20px;
+    }
+} 
+.reg-title{
+    color: white;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}

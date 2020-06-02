@@ -1,0 +1,12 @@
+@media(max-width:768px){
+    .login-title{
+        /* display: none; */
+        font-size: 20px;
+    }
+} 
+.login-title{
+    color: white;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}

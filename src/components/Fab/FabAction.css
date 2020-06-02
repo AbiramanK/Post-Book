@@ -1,0 +1,38 @@
+.fab-place{
+    margin: 10px;
+    top: auto;
+    right: 25px;
+    bottom: 25px;
+    left: auto;
+    position: fixed; 
+ 
+}
+.add-icon{
+    margin:10px;
+    top: auto;
+    /* right: 25px; */
+    bottom: 25px;
+    left: auto;
+    position: fixed; 
+ 
+}
+.edit-icon{
+    margin: 3px;
+    top: auto;
+    /* right: 25px; */
+    bottom: 20px;
+    left: auto;
+    position: fixed; 
+ 
+    /* backcolor:#60c46f; */
+    /* background-color: #60c46f; */
+}
+.photo-icon{
+    margin: 3px;
+    top: auto;
+    /* right: 25px; */
+    bottom: 15px;
+    left: auto;
+    position: fixed; 
+   
+}
